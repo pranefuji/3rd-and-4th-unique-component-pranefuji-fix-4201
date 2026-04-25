@@ -6,9 +6,13 @@ Changes have been made for the following
 
 --
 3rd and 4th Unique Component: (Building) Hippodrome's unique "New [Mounted] units start with [15] Experience [in this city]" is deprecated As of 4.15.11, replace with "New [Mounted] units start with [15] XP [in this city]"
+
 3rd and 4th Unique Component: (Building) Tejo Court's unique "New [Siege] units start with [5] Experience [in this city]" is deprecated As of 4.15.11, replace with "New [Siege] units start with [5] XP [in this city]"
+
 3rd and 4th Unique Component: (Promotion) Dao Swordsman ability's unique "[+15]% Strength when stacked with [Great General]" is deprecated As of 4.16.14, replace with "[+15]% Strength <when stacked with a [Great General] unit>"
+
 3rd and 4th Unique Component: (Improvement) Arepa House's unique "Does not need removal of [All]" contains parameter "All", which does not fit parameter type terrainFeature !
+
 3rd and 4th Unique Component: (Wonder) Colon Free Port's unique "[+1 Production] from [Trade post] tiles [in this city]" contains parameter "Trade post", which does not fit parameter type tileFilter !
 
 --
