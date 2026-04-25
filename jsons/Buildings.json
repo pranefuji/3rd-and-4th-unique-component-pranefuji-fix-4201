@@ -158,7 +158,7 @@
 		"requiredBuilding": "Monument",
 		"maintenance": 1,
 		"hurryCostModifier": 25,
-		"uniques": ["Destroyed when the city is captured", "New [Mounted] units start with [15] Experience [in this city]"],
+		"uniques": ["Destroyed when the city is captured","New [Mounted] units start with [15] XP [in this city]"],
 		"requiredTech": "Drama and Poetry"
 	},
 {
@@ -234,7 +234,7 @@
 		"cityStrength": 9,
 		"cityHealth": 25,
 		"requiredBuilding": "Castle",
-		"uniques": ["Destroyed when the city is captured","New [Siege] units start with [5] Experience [in this city]"],
+		"uniques": ["Destroyed when the city is captured","New [Siege] units start with [5] XP [in this city]"],
 		"requiredTech": "Metallurgy"
 	},
 	{
